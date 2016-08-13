@@ -40,7 +40,6 @@ public class AppTest
     public void testWeb() {
     //add webdriver tests later
     //add selenium import	
-    	int id; //test revert
     }
     
 }
