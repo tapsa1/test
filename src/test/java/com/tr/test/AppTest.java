@@ -37,5 +37,9 @@ public class AppTest
         assertTrue( true );
     }
     
-
+    public void testWeb() {
+    //add webdriver tests later
+    //add selenium import	
+    }
+    
 }
